@@ -1,6 +1,6 @@
 # Improve Documentation using OpenAI
 
-See [blogpost](https://dro-lopes.medium.com/how-i-used-openai-api-to-improve-our-product-documentation-c79b0e06f9bc).
+See [blogpost](https://dro-lopes.medium.com/how-i-used-openai-api-to-improve-our-product-documentation-c79b0e06f9bc) with more details.
 
 ## Problem
 
